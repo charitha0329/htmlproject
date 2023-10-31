@@ -1,0 +1,24 @@
+#cherry{
+    text-align: center;
+    background-color: red;
+    height:80px;
+    padding: 20px;
+    text-shadow: 4px 5px 6px blue;
+    text-decoration:underline;
+}
+p{
+    text-align: center;
+    background-color: red;
+    text-decoration: underline;
+    text-shadow: 4px 5px 6px blue;
+}
+ ol li{
+    background-color: blue;
+    height: 20px;
+    padding: 20px;
+    list-style-type:upper-alpha;
+}
+#nonveg{
+    background-color: yellow;
+    list-style-type: circle;
+}
